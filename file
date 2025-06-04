@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple JavaScript</title>
+</head>
+<body>
+
+<script>
+  alert("Hello! This is a simple JavaScript alert.");
+</script>
+
+</body>
+</html>
